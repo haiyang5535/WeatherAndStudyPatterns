@@ -1,0 +1,21 @@
+Date,Study Duration (hours),Study Location,Time of Study,Productivity Level,Temperature(F),Forecast
+12/8/2024,5.1,Indoors (Library),Afternoon (12 PM- 6 PM),1,15,Mostly Clear
+12/13/2024,3.8,Indoors (Dorm),Night (12 AM- 6 AM),8,56,Light Rain
+12/12/2024,2.2,Indoors (Dorm),Morning (6 AM- 12 PM),3,35,Light Rain Likely
+12/9/2024,1.6,Other,Evening (6 PM- 12 AM),10,36,Mostly Sunny
+12/13/2024,2.4,Other,Night (12 AM- 6 AM),2,56,Light Rain
+12/11/2024,1.5,Other,Night (12 AM- 6 AM),10,40,Slight Chance Light Snow then Chance Light Rain
+12/13/2024,5,Indoors (Library),Afternoon (12 PM- 6 PM),1,56,Light Rain
+12/8/2024,5.1,Indoors (Dorm),Afternoon (12 PM- 6 PM),9,15,Mostly Clear
+12/13/2024,3.7,Other,Morning (6 AM- 12 PM),6,56,Light Rain
+12/14/2024,4,Indoors (Dorm),Afternoon (12 PM- 6 PM),7,32,Sunny
+12/13/2024,3,Indoors (Dorm),Afternoon (12 PM- 6 PM),4,56,Light Rain
+12/12/2024,3.4,Other,Morning (6 AM- 12 PM),9,35,Light Rain Likely
+12/10/2024,2.3,Other,Morning (6 AM- 12 PM),4,25,Mostly Cloudy
+12/8/2024,7.5,Indoors (Dorm),Afternoon (12 PM- 6 PM),5,15,Mostly Clear
+12/10/2024,4.6,Indoors (Dorm),Night (12 AM- 6 AM),10,25,Mostly Cloudy
+12/10/2024,0.6,Other,Morning (6 AM- 12 PM),2,25,Mostly Cloudy
+12/8/2024,1.7,Indoors (Dorm),Morning (6 AM- 12 PM),3,15,Mostly Clear
+12/12/2024,7.1,Indoors (Library),Evening (6 PM- 12 AM),6,35,Light Rain Likely
+12/12/2024,2.1,Indoors (Library),Evening (6 PM- 12 AM),4,35,Light Rain Likely
+12/8/2024,0.7,Indoors (Library),Evening (6 PM- 12 AM),9,15,Mostly Clear
